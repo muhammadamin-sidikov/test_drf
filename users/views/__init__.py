@@ -1,0 +1,4 @@
+from user_view import UserAPIView
+from user_group import AssignToGroupAPIView
+from deactivate_view import DeactivateUserAPIView
+from user_email import ChangeEmailAPIView
